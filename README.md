@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 ### NEO (my dog)
-![087EE427-19D5-49E0-873C-ADA69B4D4DE7](https://github.com/user-attachments/assets/efd24a35-ddc3-447d-8fac-5d1b4a4be5bc)
-
+![087EE427-19D5-49E0-873C-ADA69B4D4DE7](https://github.com/user-attachments/assets/ac466080-4d61-4ed8-a03c-77f1606d5a17)
 
 <!--
 **raozzo/raozzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
